@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Belajar Vue",
+      "body": "Vue itu mantap!"
+    },
+    {
+      "id": "2",
+      "title": "Belajar Axios",
+      "body": "Axios buat HTTP request"
+    }
+  ]
+}
